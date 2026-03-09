@@ -1,8 +1,5 @@
 # Event Reservation Platform
 
-**Computer Networks - 2025/2026**  
-**LEIC Alameda**
-
 Distributed event reservation system implemented in C, using the Sockets interface for network communication through the UDP and TCP protocols.
 
 ---
