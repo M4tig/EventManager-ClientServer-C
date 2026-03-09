@@ -262,4 +262,12 @@ EVENTS/
 - Multiple simultaneous TCP connections
 - Persistent filesystem-based database
 - Verbose mode for debugging
-- Graceful signal handling (SIGINT, SIG
+- Graceful signal handling (SIGINT, SIGPIPE)
+
+### Client (User)
+- Interactive command-line interface
+- Local input validation
+- Session state management
+- File upload/download
+- Commands with aliases (`myevents`/`mye`, etc.)
+- Clear and informative error messages
